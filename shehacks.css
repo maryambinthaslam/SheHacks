@@ -36,14 +36,14 @@ section.header{
     1px 30px 60px rgba(16,16,16,0.4);
 }
 
-section.maryam{
+section.member1{
 	margin: 2%;
 	padding: 2%;
 	/*padding-bottom: 2%;*/
 	background: #2ec194;
 }
 
-section.nuha{
+section.member2{
 	margin: 2%;
 	padding: 2%;
 	padding-bottom: 2%;
@@ -105,7 +105,7 @@ section :before{
 	z-index: -1;
 	filter: blur(10px);
 }*/
-/*.maryamheading{*/
+/*.membername{*/
 	/*font-family: 'Sarpanch', sans-serif;
 	color: #fff;
   	text-shadow: 1px 1px 1px #919191,
